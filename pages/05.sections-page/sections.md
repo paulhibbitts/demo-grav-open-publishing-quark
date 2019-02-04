@@ -1,13 +1,15 @@
 ---
 title: 'Sections Page'
 published: true
+hide_git_sync_repo_link: false
 hide_page_title: true
+hide_next_prev_page_buttons: true
 content:
     items: '@self.children'
     order:
         by: folder
         dir: asc
-    limit: 0    
+    limit: 0
 ---
 
 [div class="sections-page-title"]
