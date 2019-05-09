@@ -1,5 +1,5 @@
 ---
-title: 'Multi-Sections Page'
+title: 'Multi-Section Page'
 published: true
 taxonomy:
     tag:
