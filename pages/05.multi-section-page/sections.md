@@ -1,18 +1,15 @@
 ---
 title: 'Multi-Section Page'
 published: true
-taxonomy:
-    tag:
-        - view1
-        - view2
-hide_git_sync_repo_link: false
 hide_page_title: true
 content:
     items: '@self.children'
     order:
         by: folder
         dir: asc
-hide_next_prev_page_buttons: false
+    limit: 0    
+    taxonomy:
+        tag: [view1,view2]
 ---
 
 [div class="sections-page-title"]
