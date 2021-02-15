@@ -9,7 +9,8 @@ content:
         dir: asc
     limit: 0    
     taxonomy:
-        tag: [view1,view2]
+        filter: [view1,view2]
+child_type: section
 ---
 
 [div class="sections-page-title"]
